@@ -1,8 +1,8 @@
 //
 //  main.m
-//  Shiro100vs1.1
+//  Shiro100vs
 //
-//  Created by 寺内 信夫 on 2014/11/19.
+//  Created by 寺内 信夫 on 2014/11/08.
 //  Copyright (c) 2014年 寺内 信夫. All rights reserved.
 //
 
